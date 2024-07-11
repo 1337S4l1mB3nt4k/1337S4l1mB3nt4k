@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1337S4l1mB3nt4k
+- 👋 Hi, I’m s4l1mb3nth4k
 - 👀 I’m interested in codind App && security
 - 🌱 I’m currently learning Js React && Python 
 - 💞️ I’m looking to collaborate on ...
